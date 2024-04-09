@@ -1,0 +1,19 @@
+h2#modal-modal-title {
+    font-size: 22px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    padding: 11px;
+    font-weight: 700;
+}
+
+input#re-schedule-date {
+    height: 3.5rem;
+    width: 21rem;
+}
+
+a#submit-date-css {
+    padding: 8px 50px;
+    font-weight: 700;
+    font-size: 17px;
+}

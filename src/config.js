@@ -1,0 +1,1 @@
+export const ESTIMATED_ALLOCATED_TME = 10  // In hours

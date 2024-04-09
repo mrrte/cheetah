@@ -1,0 +1,9 @@
+.task-list-table-style {
+    font-size: 21px;
+    font-weight: 500;
+}
+
+input[type="checkbox"]:disabled {
+    cursor: "not-allowed";
+    opacity: 0.5; 
+  }

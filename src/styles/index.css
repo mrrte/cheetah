@@ -1,0 +1,180 @@
+html, body {
+    height:100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+img.img-fluid.logo-style {
+    max-height: 6rem;
+    max-width: 18rem;
+}
+.container {
+    max-width: 90%;
+}
+
+
+button.btn.btn-warning.homepage-btn-style {
+    border-radius: 0px;
+    /* border: 1px solid black; */
+    font-weight: 500;
+    padding: 0.5rem 1.6rem;
+    margin: 0 0.4rem;
+    color: black;
+    background-color: #ffd966;
+    box-shadow: inset 0 -1px 0 0 #958383;
+}
+
+.card.schedule-plan-card-style {
+    background-size: cover;
+    color: white;
+    border-radius: 0 9px 9px 0;
+    padding: 9.6rem;
+    opacity: 0.9;
+}
+
+.schedule-study-title-style{
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+input.form-control.my-2.generate-study-inp-field {
+    border-radius: 2px;
+    padding: 12px;
+}
+
+button.btn.btn-primary.generate-study-btn {
+    padding: 10px 20px;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 3px;
+    background-color: #e39915;
+    border: 1px solid #ffd180;
+}
+
+img.img-fluid.advertisement-img {
+    height: 20rem;
+    width: 16rem;
+}
+
+.study-plan-details {
+    background-color: #E2E2E2;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.alert.alert-style {
+    cursor: pointer;
+    background-color: #ffd966;
+    border: 1px solid black;
+    border-radius: 1px;
+    font-size: 20px;
+    font-weight: 700;
+    justify-content: center;
+    box-shadow: inset 0 -1px 0 0 #958383;
+}
+
+input.form-check-input.checkbox-style {
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+label.form-check-label.label-style {
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.daywise-tasklist-col-style {
+    border: 2px solid black;
+    padding: 12px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-right: 6px;
+}
+
+.progress-bar-vertical {
+    width: 20px;
+    min-height: 200px;
+    margin-right: 20px;
+    background: #d0cece;
+    display: -webkit-box;  
+    display: -ms-flexbox;  
+    display: -webkit-flex; 
+    display: flex;        
+    align-items: flex-end;
+    -webkit-align-items: flex-end;
+  }
+  
+  .progress-bar-vertical .progress-bar {
+    width: 100%;
+    height: 0;
+    -webkit-transition: height 0.6s ease;
+    -o-transition: height 0.6s ease;
+    transition: height 0.6s ease;
+  }
+
+  .progress-bar-vertical {
+    width: 20px;
+    height: 100% !important;
+    margin-right: 20px;
+    background-color: red;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: flex-end;
+    -webkit-align-items: flex-end;
+}
+
+.progress {
+    background-color: red !important;
+    border-radius: 2px;
+    width: 1.5rem;
+  }
+
+  button.btn.btn-warning.homepage-btn-style.study-plan-action-style {
+    padding: 0.5rem 4rem;
+}
+
+p.quote-style.d-flex.justify-content-center {
+    font-size: 1.4rem;
+    margin: 0;
+    padding: 0;
+}
+
+
+.topic-lists-style {
+    max-height: 417px;
+    overflow-y: scroll;
+}
+
+.react-datepicker__input-container {
+    width: 25rem;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation0.MuiAlert-root.MuiAlert-standardError.MuiAlert-standard.css-dxj82p-MuiPaper-root-MuiAlert-root {
+    width: 25rem;
+}
+
+.custom-tile {
+    display: none;
+}
+.blurred-content {
+    filter: blur(4px);
+  }
+  button#vip-btn-style {
+
+    text-transform: none;
+    font-size: 17px;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 9px 15px;
+    cursor: pointer;
+    left:1rem;
+}
+div#stripe-card-style {
+    color: #2f3f4c !important;
+    font-size: 17px !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    line-height: 200% !important;
+    width: 71.6px !important;
+  }
